@@ -1,0 +1,16 @@
+.historia{
+    width: 750px;
+    margin: auto;
+}
+h1 {
+    text-align: left;
+}
+img {
+    float: right;
+    width: 350px;
+    padding: 20px;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
